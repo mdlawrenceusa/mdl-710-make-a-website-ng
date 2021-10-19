@@ -1,1 +1,1 @@
-import { Lesson1Component } from './lesson1/lesson1.component';
+import { BikeMainComponent } from './bike-main/buke-main.component';
