@@ -7,7 +7,9 @@ import { HelloComponent } from './hello.component';
 import { Lesson1Component } from './lesson1/lesson1.component';
 import { BikeNavComponent } from './bike-nav/bike-nav.component';
 import { BikeMainComponent } from './bike-main/bike-main.component';
-
+import { Lesson2Component } from './lesson2/lesson2.component';
+import { SproutMainComponent } from './sprout-main/sprout-main.component';
+import { SproutNavComponent } from './sprout-nav/sprout-nav.component';
 
 
 
@@ -17,7 +19,10 @@ import { BikeMainComponent } from './bike-main/bike-main.component';
                   HelloComponent,
                   Lesson1Component,
                   BikeNavComponent,
-                  BikeMainComponent
+                  BikeMainComponent,
+                  Lesson2Component,
+                  SproutMainComponent,
+                  SproutNavComponent
             
                 ],
   bootstrap:    [ AppComponent ]
